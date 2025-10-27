@@ -1,0 +1,9 @@
+🎬 Movie Database App – Changelog
+Version 1.0 – October 14, 2025
+• 	🚀 Initial release
+• 	🔍 TMDb search integration
+• 	✨ Auto-fill for title, year, genre, director, and main star
+• 	🖼 Poster preview with click-to-enlarge feature
+• 	🧩 Fallback messaging for missing posters
+• 	🏷 Version label and About dialog included
+• 	🧹 Clean layout and modular code structure
