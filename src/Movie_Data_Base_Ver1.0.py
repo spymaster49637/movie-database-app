@@ -187,7 +187,7 @@ def add_movie():
     # movies.append(movie)
 
 # 3. Save to file
-    with open("movies.json", "w") as f:
+    with open("../movies.json", "w") as f:
         json.dump(movies, f, indent=4)
 
 # 4. Refresh the listbox
